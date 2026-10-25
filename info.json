@@ -1,0 +1,9 @@
+{
+  "name": "ConnectionBox",
+  "version": "2.1.3",
+  "title": "Connection Box",
+  "author": "darkfrei",
+  "description": "Connection Box for wires connection",
+  "dependencies": ["base", "? SchallCircuitGroup"],
+  "factorio_version": "2.0"
+}
