@@ -1,9 +1,13 @@
 {
-  "name": "ConnectionBox",
+  "name": "ConnectionBox_fx",
   "version": "2.1.3",
-  "title": "Connection Box",
+  "title": "Connection Box FX",
   "author": "darkfrei",
-  "description": "Connection Box for wires connection",
-  "dependencies": ["base", "? SchallCircuitGroup"],
+  "description": "Connection Box for wires connection (FX version - incompatible with the original mod)",
+  "dependencies": [
+    "! ConnectionBox",
+    "base",
+    "? SchallCircuitGroup"
+  ],
   "factorio_version": "2.0"
 }

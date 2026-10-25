@@ -1,4 +1,4 @@
-local mod_name = '__ConnectionBox__'
+local mod_name = '__ConnectionBox_fx__'
 local name = 'connection-box'
 local icon = mod_name .. '/graphics/icons/'..name..'.png'
 
